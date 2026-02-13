@@ -1,0 +1,35 @@
+[
+{
+"id": "0221133155",
+"Product ID": "0102155",
+"Product Name": "Carbon Road Racing Bike",
+"Product Brand": "brand for test",
+"Product URL": "https://www.balfesbikes.co.uk/__101714",
+"Description": "Carbon Road Racing Bike description",
+"Image URLs": "https://www.balfesbikes.co.uk/images/products/0/00/00.2418.140.000_59038-2.png?height=800&width=800&quality=70&origin=CUSTOM_INC_TECHSPEC",
+"Category": "test Category1",
+"Price": "20.00"
+},
+{
+"id": "0221133255",
+"Product ID": "0102255",
+"Product Name": "Electric Mountain Bike Pro City Bicycle",
+"Product Brand": "brand for test",
+"Product URL": "https://www.balfesbikes.co.uk/__101714",
+"Description": "Electric Mountain Bike Pro City Bicycle description",
+"Image URLs": "https://www.balfesbikes.co.uk/images/products/0/00/00.2418.140.000_59038-2.png?height=800&width=800&quality=70&origin=CUSTOM_INC_TECHSPEC",
+"Category": "test Category1",
+"Price": "25.00"
+},
+{
+"id": "0221133355",
+"Product ID": "0102355",
+"Product Name": "Urban Folding City Bicycle Electric Bike",
+"Product Brand": "brand for test",
+"Product URL": "https://www.balfesbikes.co.uk/__101714",
+"Description": "Urban Folding City Bicycle Electric Bike description",
+"Image URLs": "https://www.balfesbikes.co.uk/images/products/0/00/00.2418.140.000_59038-2.png?height=800&width=800&quality=70&origin=CUSTOM_INC_TECHSPEC",
+"Category": "test Category1",
+"Price": "30.00"
+}
+]
