@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
+  <channel>
+    <title>test Balfes googleShoppingFeed with variants</title>
+    <link>https://www.balfesbikes.co.uk/</link>
+    <description>googleShoppingFeed with variants for Golden product</description>
+    <item>
+      <g:id>00-123</g:id>
+      <title>Thunder Peak Gravel Bicycle</title>
+      <g:description>Thunder Peak Gravel Bicycle description</g:description>
+      <link>https://www.balfesbikes.co.uk/__101714</link>
+      <g:image_link>https://www.balfesbikes.co.uk/images/products/0/00/00.2418.140.000_59038-2.png?height=800&amp;width=800&amp;quality=70&amp;origin=CUSTOM_INC_TECHSPEC</g:image_link>
+      <g:brand>gp brand</g:brand>
+      <g:condition>new</g:condition>
+      <g:availability>out_of_stock</g:availability>
+      <g:price>329.0000 GBP</g:price>
+      <g:item_group_id>101714</g:item_group_id>
+      <g:color>898989</g:color>
+      <g:mpn>00.2418.140.000</g:mpn>
+      <g:quantity>0</g:quantity>
+    </item>
+    <item>
+      <g:id>00-234</g:id>
+      <title>Shadow Rider BMX Bike</title>
+      <g:description>Shadow Rider BMX Bike description</g:description>
+      <link>https://www.balfesbikes.co.uk/__109791</link>
+      <g:image_link>https://www.balfesbikes.co.uk/images/products/R/RS/rs8020000_57870.jpg?height=800&amp;width=800&amp;quality=70&amp;origin=CUSTOM_INC_TECHSPEC</g:image_link>
+      <g:brand>gp brand</g:brand>
+      <g:condition>new</g:condition>
+      <g:availability>out_of_stock</g:availability>
+      <g:price>21.0000 GBP</g:price>
+      <g:item_group_id>109791</g:item_group_id>
+      <g:color>''tt*</g:color>
+      <g:mpn>00.4318.020.039</g:mpn>
+      <g:quantity>3</g:quantity>
+    </item>
+    <item>
+      <g:id>00-345</g:id>
+      <title>EcoRide Electric Commuter Bicycle</title>
+      <g:description>EcoRide Electric Commuter Bicycle description</g:description>
+      <link>https://www.balfesbikes.co.uk/__109790</link>
+      <g:image_link>https://www.balfesbikes.co.uk/images/products/R/RS/rs8020000_57882.jpg?height=800&amp;width=800&amp;quality=70&amp;origin=CUSTOM_INC_TECHSPEC</g:image_link>
+      <g:brand>gp brand</g:brand>
+      <g:condition>new</g:condition>
+      <g:availability>out_of_stock</g:availability>
+      <g:price>21.0000 GBP</g:price>
+      <g:item_group_id>109790</g:item_group_id>
+      <g:color>Black</g:color>
+      <g:mpn>00.4318.020.040</g:mpn>
+      <g:quantity>2</g:quantity>
+    </item>
+]
