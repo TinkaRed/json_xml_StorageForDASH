@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
+  <channel>
+    <title>test Balfes googleShoppingFeed with variants</title>
+    <link>https://pupupu.com/</link>
+    <description>googleShoppingFeed feedForChangesCheck</description>
+    <item>
+      <g:id>00-12357</g:id>
+      <title>TerraPulse Adventure Series Bike Dark Grey</title>
+      <g:description>TerraPulse Adventure Series Bike Dark Grey description</g:description>
+      <link>https://pupupu.com/1020</link>
+      <g:image_link>https://www.balfesbikes.co.uk/images/products/0/00/00.2418.140.000_59038-2.png?height=800&amp;width=800&amp;quality=70&amp;origin=CUSTOM_INC_TECHSPEC</g:image_link>
+      <g:brand>gp brand</g:brand>
+      <g:condition>new</g:condition>
+      <g:availability>3</g:availability>
+      <g:price>329.0000 GBP</g:price>
+      <g:item_group_id>101714</g:item_group_id>
+      <g:color>898989</g:color>
+      <g:mpn>00.2418.140.000</g:mpn>
+      <g:quantity>2</g:quantity>
+    </item>
+    <?xml version='1.0' encoding='UTF-8'?>
+<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
+  <channel>
+    <title>test Balfes googleShoppingFeed with variants</title>
+    <link>https://pupupu.com/</link>
+    <description>googleShoppingFeed feedForChangesCheck</description>
+    <item>
+      <g:id>00-12356</g:id>
+      <title>TerraPulse Adventure Series Bike Flame Orange</title>
+      <g:description>TerraPulse Adventure Series Bike Flame Orange description</g:description>
+      <link>https://pupupu.com/1020</link>
+      <g:image_link>https://www.balfesbikes.co.uk/images/products/0/00/00.2418.140.000_59038-2.png?height=800&amp;width=800&amp;quality=70&amp;origin=CUSTOM_INC_TECHSPEC</g:image_link>
+      <g:brand>gp brand</g:brand>
+      <g:condition>new</g:condition>
+      <g:availability>2</g:availability>
+      <g:price>329.0000 GBP</g:price>
+      <g:item_group_id>101714</g:item_group_id>
+      <g:color>898989</g:color>
+      <g:mpn>00.2418.140.000</g:mpn>
+      <g:quantity>2</g:quantity>
+    </item>
+    <?xml version='1.0' encoding='UTF-8'?>
+<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
+  <channel>
+    <title>test Balfes googleShoppingFeed with variants</title>
+    <link>https://pupupu.com/</link>
+    <description>googleShoppingFeed feedForChangesCheck</description>
+    <item>
+      <g:id>00-12355</g:id>
+      <title>TerraPulse Adventure Series Bike Light Grey</title>
+      <g:description>TerraPulse Adventure Series Bike Light Grey description</g:description>
+      <link>https://pupupu.com/1020</link>
+      <g:image_link>https://www.balfesbikes.co.uk/images/products/0/00/00.2418.140.000_59038-2.png?height=800&amp;width=800&amp;quality=70&amp;origin=CUSTOM_INC_TECHSPEC</g:image_link>
+      <g:brand>gp brand</g:brand>
+      <g:condition>new</g:condition>
+      <g:availability>1</g:availability>
+      <g:price>329.0000 GBP</g:price>
+      <g:item_group_id>101714</g:item_group_id>
+      <g:color>898989</g:color>
+      <g:mpn>00.2418.140.000</g:mpn>
+      <g:quantity>2</g:quantity>
+    </item>
