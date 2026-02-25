@@ -19,5 +19,20 @@
       <g:mpn>00.2418.140.000</g:mpn>
       <g:quantity>2</g:quantity>
     </item>
+    <item>
+      <g:id>656577</g:id>
+      <title>Bike Torque Wrench</title>
+      <g:description>Bike Torque Wrench description</g:description>
+      <link>https://pupupu.com/1028</link>
+      <g:image_link>https://www.balfesbikes.co.uk/images/products/0/00/00.2418.140.000_59038-2.png?height=800&amp;width=800&amp;quality=70&amp;origin=CUSTOM_INC_TECHSPEC</g:image_link>
+      <g:brand>gp brand</g:brand>
+      <g:condition>new</g:condition>
+      <g:availability>available</g:availability>
+      <g:price>500.0000 GBP</g:price>
+      <g:item_group_id>101714</g:item_group_id>
+      <g:color>red</g:color>
+      <g:mpn>00.2418.140.000</g:mpn>
+      <g:quantity>2</g:quantity>
+    </item>
   </channel>
 </rss>
