@@ -1,11 +1,22 @@
 [
   {
-    "id": "1176852",
-    "Product ID": "1134522",
+    "id": "11768524",
+    "Product ID": "11345224",
     "Product Name": "new title name Lovely bike with Brake Rotor 160mm",
     "Product Brand": "simple brand",
     "Product URL": "https://www.balfesbikes.co.uk/__73639",
     "Description": "Lovely bike with Brake Rotor 160mm - description text",
+    "Image URLs": "https://www.balfesbikes.co.uk/images/rs004318053000_57869.jpg?height=800&width=800&quality=70&origin=CUSTOM_INC_TECHSPEC",
+    "Category": "simple Category",
+    "Product Color": "red"
+  },
+  {
+    "id": "11768524",
+    "Product ID": "11345224",
+    "Product Name": "Bicycle Chain Cleaner Tool",
+    "Product Brand": "simple brand",
+    "Product URL": "https://www.balfesbikes.co.uk/__73640",
+    "Description": "Bicycle Chain Cleaner Tool - description text",
     "Image URLs": "https://www.balfesbikes.co.uk/images/rs004318053000_57869.jpg?height=800&width=800&quality=70&origin=CUSTOM_INC_TECHSPEC",
     "Category": "simple Category",
     "Product Color": "red"
