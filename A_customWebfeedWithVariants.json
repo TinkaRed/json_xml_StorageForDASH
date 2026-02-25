@@ -1,0 +1,77 @@
+{
+"title": "customWebfeedWithVariants",
+"link": "https://www.testme.co.uk/",
+"description": "Product feed for customWebfeedWithVariants",
+"products": [
+{
+"id": "PRODUCT0123",
+"title": "Bicycle Kickstand",
+"description": "Bicycle Kickstand is built for riders who want one road bike that can do it all, from long climbs and daily commutes to weekend epics",
+"image_url": "https://checkout.ribblecycles.co.uk/media/catalog/product/a/l/allroad_al_tiagra_1.png",
+"variants": [
+{
+"id": "d407",
+"rrp": 1429,
+"price": 1429,
+"in_stock": true,
+"option1": "Anthracite / Extra Small Tiagra Hydro Disc",
+"option2": "DT Swiss G1800 P7 Sport 32mm HG",
+"option3": "Alloy Bar & RS2 Stem / MODEL X Superflow Saddle"
+},
+{
+"id": "d408",
+"rrp": 2229,
+"price": 2229,
+"in_stock": true,
+"option1": "Anthracite / Extra Small Tiagra Hydro Disc",
+"option2": "Vision SC45 PZ Road 32mm Black HG",
+"option3": "Alloy Bar & RS2 Stem / MODEL X Superflow Saddle"
+},
+{
+"id": "d409",
+"rrp": 2229,
+"price": 2229,
+"in_stock": true,
+"option1": "Anthracite / Extra Small Tiagra Hydro Disc",
+"option2": "Mavic Cosmic S P Zero Road 32mm HG",
+"option3": "Alloy Bar & RS2 Stem / MODEL X Superflow Saddle"
+}
+]
+},
+{
+"id": "PRODUCT0124",
+"title": "Rear Bike Rack",
+"description": "Rear Bike Rack is built for riders who want one road bike that can do it all. From long climbs and daily commutes to weekend epics.",
+"image_url": "https://checkout.ribblecycles.co.uk/media/catalog/product/a/l/allroad_al_105_1.png",
+"variants": [
+{
+"id": "e407",
+"rrp": 1579,
+"price": 1579,
+"in_stock": true,
+"option1": "Anthracite / Extra Small 105 12 Speed",
+"option2": "DT Swiss G1800 P7 Sport 32mm HG",
+"option3": "Alloy Bar & RS2 Stem / MODEL X Superflow Saddle"
+},
+{
+"id": "e408",
+"rrp": 2379,
+"price": 2379,
+"in_stock": true,
+"option1": "Anthracite / Extra Small 105 12 Speed",
+"option2": "Vision SC45 PZ Road 32mm Black HG",
+"option3": "Alloy Bar & RS2 Stem / MODEL X Superflow Saddle"
+},
+{
+"id": "e409",
+"rrp": 2379,
+"price": 2379,
+"in_stock": true,
+"option1": "Anthracite / Extra Small 105 12 Speed",
+"option2": "Mavic Cosmic S P Zero Road 32mm HG",
+"option3": "Alloy Bar & RS2 Stem / MODEL X Superflow Saddle"
+}
+]
+}
+]
+}
