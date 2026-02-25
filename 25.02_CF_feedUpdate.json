@@ -1,0 +1,22 @@
+[
+  {
+    "id": "7200",
+    "Product ID": "9200",
+    "Product Name": "Bike Frame Bag",
+    "Product Brand": "simple brand",
+    "Product URL": "https://www.testurl.co.uk/__73639",
+    "Description": "Bike Frame Bag description text",
+    "Image URLs": "https://www.balfesbikes.co.uk/images/rs004318053000_57869.jpg?height=800&width=800&quality=70&origin=CUSTOM_INC_TECHSPEC",
+    "Category": "simple Category"
+  },
+  {
+    "id": "7201",
+    "Product ID": "9201",
+    "Product Name": "Bike Saddle Cover",
+    "Product Brand": "simple brand",
+    "Product URL": "https://www.testurl.co.uk/__73639",
+    "Description": "Bike Saddle Cover description text",
+    "Image URLs": "https://www.balfesbikes.co.uk/images/rs004318053000_57869.jpg?height=800&width=800&quality=70&origin=CUSTOM_INC_TECHSPEC",
+    "Category": "simple Category"
+  }
+]
