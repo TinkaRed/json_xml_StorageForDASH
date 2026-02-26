@@ -4,8 +4,43 @@
 "description": "Product feed for customWebfeedWithVariants",
 "products": [
 {
+"id": "PRODUCT0124",
+"title": "variant product Cycling Gloves for mountain bike",
+"description": "Cycling Gloves for mountain bike - description",
+"image_url": "https://checkout.ribblecycles.co.uk/media/catalog/product/a/l/allroad_al_tiagra_1.png",
+"variants": [
+{
+"id": "n709",
+"rrp": 1429,
+"price": 1429,
+"in_stock": true,
+"option1": "Satin blue / Extra Small Tiagra Hydro Disc",
+"option2": "DT Swiss G1800 P7 Sport 32mm HG",
+"option3": "Alloy Bar & RS2 Stem / MODEL X Superflow Saddle"
+},
+{
+"id": "n710",
+"rrp": 2229,
+"price": 2229,
+"in_stock": true,
+"option1": "Satin blue / Extra Small Tiagra Hydro Disc",
+"option2": "Vision SC45 PZ Road 32mm Black HG",
+"option3": "Alloy Bar & RS2 Stem / MODEL X Superflow Saddle"
+},
+{
+"id": "n711",
+"rrp": 2229,
+"price": 2229,
+"in_stock": true,
+"option1": "Satin blue / Extra Small Tiagra Hydro Disc",
+"option2": "Mavic Cosmic S P Zero Road 32mm HG",
+"option3": "Alloy Bar & RS2 Stem / MODEL X Superflow Saddle"
+}
+]
+},
+{
 "id": "PRODUCT0123",
-"title": "Bicycle Kickstand",
+"title": "variant product Bicycle Kickstand",
 "description": "Bicycle Kickstand is built for riders who want one road bike that can do it all, from long climbs and daily commutes to weekend epics",
 "image_url": "https://checkout.ribblecycles.co.uk/media/catalog/product/a/l/allroad_al_tiagra_1.png",
 "variants": [
@@ -14,7 +49,7 @@
 "rrp": 1429,
 "price": 1429,
 "in_stock": true,
-"option1": "Anthracite / Extra Small Tiagra Hydro Disc",
+"option1": "Chrome Anthracite / Extra Small Tiagra Hydro Disc",
 "option2": "DT Swiss G1800 P7 Sport 32mm HG",
 "option3": "Alloy Bar & RS2 Stem / MODEL X Superflow Saddle"
 },
@@ -23,7 +58,7 @@
 "rrp": 2229,
 "price": 2229,
 "in_stock": true,
-"option1": "Anthracite / Extra Small Tiagra Hydro Disc",
+"option1": "Chrome Anthracite / Extra Small Tiagra Hydro Disc",
 "option2": "Vision SC45 PZ Road 32mm Black HG",
 "option3": "Alloy Bar & RS2 Stem / MODEL X Superflow Saddle"
 },
@@ -32,7 +67,7 @@
 "rrp": 2229,
 "price": 2229,
 "in_stock": true,
-"option1": "Anthracite / Extra Small Tiagra Hydro Disc",
+"option1": "Chrome Anthracite / Extra Small Tiagra Hydro Disc",
 "option2": "Mavic Cosmic S P Zero Road 32mm HG",
 "option3": "Alloy Bar & RS2 Stem / MODEL X Superflow Saddle"
 }
@@ -40,7 +75,7 @@
 },
 {
 "id": "PRODUCT0124",
-"title": "Rear Bike Rack",
+"title": "variant product Rear Bike Rack",
 "description": "Rear Bike Rack is built for riders who want one road bike that can do it all. From long climbs and daily commutes to weekend epics.",
 "image_url": "https://checkout.ribblecycles.co.uk/media/catalog/product/a/l/allroad_al_105_1.png",
 "variants": [
@@ -49,7 +84,7 @@
 "rrp": 1579,
 "price": 1579,
 "in_stock": true,
-"option1": "Anthracite / Extra Small 105 12 Speed",
+"option1": "Reddish / Extra Small 105 12 Speed",
 "option2": "DT Swiss G1800 P7 Sport 32mm HG",
 "option3": "Alloy Bar & RS2 Stem / MODEL X Superflow Saddle"
 },
@@ -58,7 +93,7 @@
 "rrp": 2379,
 "price": 2379,
 "in_stock": true,
-"option1": "Anthracite / Extra Small 105 12 Speed",
+"option1": "Reddish / Extra Small 105 12 Speed",
 "option2": "Vision SC45 PZ Road 32mm Black HG",
 "option3": "Alloy Bar & RS2 Stem / MODEL X Superflow Saddle"
 },
@@ -67,7 +102,7 @@
 "rrp": 2379,
 "price": 2379,
 "in_stock": true,
-"option1": "Anthracite / Extra Small 105 12 Speed",
+"option1": "Reddish / Extra Small 105 12 Speed",
 "option2": "Mavic Cosmic S P Zero Road 32mm HG",
 "option3": "Alloy Bar & RS2 Stem / MODEL X Superflow Saddle"
 }
