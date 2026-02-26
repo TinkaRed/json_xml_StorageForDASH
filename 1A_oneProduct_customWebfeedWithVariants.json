@@ -1,0 +1,45 @@
+{
+  "title": "customWebfeedWithVariants - one product",
+  "link": "https://www.testme2.co.uk/",
+  "description": "Product feed for customWebfeedWithVariants - one product",
+  "products": [
+    {
+      "id": "PRODUCT0126",
+      "title": "Chain for mountain bike",
+      "description": "Chain for mountain bike - description",
+      "image_url": "https://checkout.ribblecycles.co.uk/media/catalog/product/a/l/allroad_al_tiagra_1.png",
+      "variants": [
+        {
+          "id": "n7092",
+          "brand": "Chain brand",
+          "rrp": 1429,
+          "price": 1429,
+          "in_stock": true,
+          "option1": "red blue / Extra Small Tiagra Hydro Disc",
+          "option2": "DT Swiss G1800 P7 Sport 32mm HG",
+          "option3": "Alloy Bar & RS2 Stem / MODEL X Superflow Saddle"
+        },
+        {
+          "id": "n7102",
+          "brand": "Chain brand",
+          "rrp": 2229,
+          "price": 2229,
+          "in_stock": true,
+          "option1": "red blue / Extra Small Tiagra Hydro Disc",
+          "option2": "Vision SC45 PZ Road 32mm Black HG",
+          "option3": "Alloy Bar & RS2 Stem / MODEL X Superflow Saddle"
+        },
+        {
+          "id": "n7112",
+          "brand": "Chain brand",
+          "rrp": 2229,
+          "price": 2229,
+          "in_stock": true,
+          "option1": "red blue / Extra Small Tiagra Hydro Disc",
+          "option2": "Mavic Cosmic S P Zero Road 32mm HG",
+          "option3": "Alloy Bar & RS2 Stem / MODEL X Superflow Saddle"
+        }
+      ]
+    }
+  ]
+}
