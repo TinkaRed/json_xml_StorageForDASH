@@ -1,0 +1,57 @@
+<rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">
+<channel>
+<title>Highway Cycles Product Feed</title>
+<link>https://www.highwaycycles.co.uk</link>
+<description>Highway Cycles Product Feed</description>
+<item>
+<g:id>4915825</g:id>
+<g:title>Belt drive for bike</g:title>
+<g:description>Belt drive for bike description</g:description>
+<g:link>https://www.4highwaycycles.co.uk/accessories/wheels/schwalbe-high-pressure-rim-strip__6?currency=GBP&chosenAttribute=491582</g:link>
+<g:image_link>https://www.highwaycycles.co.uk/images/sca060.jpg?height=1000&width=1000</g:image_link>
+<g:price>2.99 GBP</g:price>
+<g:availability>in_stock</g:availability>
+<g:brand>Schwalbe test</g:brand>
+<g:condition>New</g:condition>
+<g:gtin>4026495622431</g:gtin>
+<g:mpn>491582</g:mpn>
+<g:age_group>adult</g:age_group>
+<g:gender>unisex</g:gender>
+<g:color>Blue</g:color>
+<g:size>26" 20Mm</g:size>
+<g:item_group_id>B2B491582</g:item_group_id>
+<g:google_product_category>Sporting Goods > Outdoor Recreation > Cycling > Bicycle Parts > Bicycle Wheel Parts</g:google_product_category>
+<g:product_type>Store>For Bikes>Wheels</g:product_type>
+<g:custom_label_2>< 50</g:custom_label_2>
+<g:custom_label_3>50</g:custom_label_3>
+<g:custom_label_4>Medium</g:custom_label_4>
+<g:shipping_weight>0.0g</g:shipping_weight>
+<g:is_bundle>False</g:is_bundle>
+</item>
+<item>
+<g:id>4915825PK</g:id>
+<g:title>Belt drive for bike</g:title>
+<g:description>Belt drive for bike description</g:description>
+<g:link>https://www.4highwaycycles.co.uk/accessories/wheels/schwalbe-high-pressure-rim-strip__6?currency=GBP&chosenAttribute=491582PK</g:link>
+<g:image_link>https://www.highwaycycles.co.uk/images/sca060.jpg?height=1000&width=1000</g:image_link>
+<g:price>5.99 GBP</g:price>
+<g:availability>in_stock</g:availability>
+<g:brand>Schwalbe test</g:brand>
+<g:condition>New</g:condition>
+<g:gtin>4026495622677</g:gtin>
+<g:mpn>491582PK</g:mpn>
+<g:age_group>adult</g:age_group>
+<g:gender>unisex</g:gender>
+<g:color>Blue</g:color>
+<g:size>Pack Of 2</g:size>
+<g:item_group_id>B2B491582</g:item_group_id>
+<g:google_product_category>Sporting Goods > Outdoor Recreation > Cycling > Bicycle Parts > Bicycle Wheel Parts</g:google_product_category>
+<g:product_type>Store>For Bikes>Wheels</g:product_type>
+<g:custom_label_2>< 50</g:custom_label_2>
+<g:custom_label_3>70</g:custom_label_3>
+<g:custom_label_4>Medium</g:custom_label_4>
+<g:shipping_weight>0.0g</g:shipping_weight>
+<g:is_bundle>False</g:is_bundle>
+</item>
+</channel>
+</rss>
