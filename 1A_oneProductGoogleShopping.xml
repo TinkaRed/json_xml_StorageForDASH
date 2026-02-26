@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
+  <channel>
+    <title>GS for GP no variants</title>
+    <link>https://pupupu2.com/</link>
+    <description>GS for GP no variants</description>
+    <item>
+      <g:id>00-123</g:id>
+      <title>Reflective tape kit</title>
+      <g:description>Reflective tape kit description</g:description>
+      <link>https://pupupu2.com/1020</link>
+      <g:image_link>https://www.balfesbikes.co.uk/images/products/0/00/00.2418.140.000_59038-2.png?height=800&amp;width=800&amp;quality=70&amp;origin=CUSTOM_INC_TECHSPEC</g:image_link>
+      <g:brand>gp brand</g:brand>
+      <g:condition>new</g:condition>
+      <g:availability>available</g:availability>
+      <g:price>500.0000 GBP</g:price>
+      <g:item_group_id>1017r</g:item_group_id>
+      <g:color>898989</g:color>
+      <g:mpn>0011000</g:mpn>
+      <g:quantity>2</g:quantity>
+    </item>
+  </channel>
+</rss>
