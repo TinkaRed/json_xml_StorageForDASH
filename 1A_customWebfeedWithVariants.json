@@ -4,13 +4,14 @@
 "description": "Product feed for customWebfeedWithVariants",
 "products": [
 {
-"id": "PRODUCT0124",
+"id": "PRODUCT0125",
 "title": "variant product Cycling Gloves for mountain bike",
 "description": "Cycling Gloves for mountain bike - description",
 "image_url": "https://checkout.ribblecycles.co.uk/media/catalog/product/a/l/allroad_al_tiagra_1.png",
 "variants": [
 {
 "id": "n709",
+"brand": "test brand",
 "rrp": 1429,
 "price": 1429,
 "in_stock": true,
@@ -20,6 +21,7 @@
 },
 {
 "id": "n710",
+"brand": "test brand",
 "rrp": 2229,
 "price": 2229,
 "in_stock": true,
@@ -29,6 +31,7 @@
 },
 {
 "id": "n711",
+"brand": "test brand",
 "rrp": 2229,
 "price": 2229,
 "in_stock": true,
@@ -46,6 +49,7 @@
 "variants": [
 {
 "id": "d407",
+"brand": "test new brand",
 "rrp": 1429,
 "price": 1429,
 "in_stock": true,
@@ -55,6 +59,7 @@
 },
 {
 "id": "d408",
+"brand": "test new brand",
 "rrp": 2229,
 "price": 2229,
 "in_stock": true,
@@ -64,6 +69,7 @@
 },
 {
 "id": "d409",
+"brand": "test new brand",
 "rrp": 2229,
 "price": 2229,
 "in_stock": true,
@@ -81,6 +87,7 @@
 "variants": [
 {
 "id": "e407",
+"brand": "fully new brand",
 "rrp": 1579,
 "price": 1579,
 "in_stock": true,
@@ -90,6 +97,7 @@
 },
 {
 "id": "e408",
+"brand": "fully new brand",
 "rrp": 2379,
 "price": 2379,
 "in_stock": true,
@@ -99,6 +107,7 @@
 },
 {
 "id": "e409",
+"brand": "fully new brand",
 "rrp": 2379,
 "price": 2379,
 "in_stock": true,
