@@ -1,0 +1,24 @@
+[
+  {
+    "id": "88991234",
+    "Product ID": "55667788",
+    "Product Name": "Ultra Speed Mountain Bike Pro 29”",
+    "Product Brand": "VelocityX",
+    "Product URL": "https://www.cycleshopworld.com/__99881",
+    "Description": "High-performance mountain bike with hydraulic disc brakes and lightweight alloy frame",
+    "Image URLs": "https://www.cycleshopworld.com/images/mtb_pro29_black.jpg?height=800&width=800&quality=80",
+    "Category": "Mountain Bikes",
+    "Product Color": "black"
+  },
+  {
+    "id": "88991235",
+    "Product ID": "55667789",
+    "Product Name": "ProRide Adjustable Bike Stand",
+    "Product Brand": "GearMaster",
+    "Product URL": "https://www.cycleshopworld.com/__99882",
+    "Description": "Durable adjustable bike stand suitable for home maintenance and storage",
+    "Image URLs": "https://www.cycleshopworld.com/images/bike_stand_pro.jpg?height=800&width=800&quality=80",
+    "Category": "Bike Accessories",
+    "Product Color": "silver"
+  }
+]
