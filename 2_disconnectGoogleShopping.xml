@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
+  <channel>
+    <title>urbanTech feed VelocityShop googleCatalog with variations</title>
+    <link>https://megastorehub.com/</link>
+    <description>googleCatalog automatedUpdateFeed</description>
+    <item>
+      <g:id>77-890</g:id>
+      <title>Urban Explorer Hybrid Bike</title>
+      <g:description>Urban Explorer Hybrid Bike lightweight aluminum frame with disc brakes</g:description>
+      <link>https://megastorehub.com/2045</link>
+      <g:image_link>https://www.cycleshopworld.com/images/products/hybrid_bike_urban_blue.png?height=800&amp;width=800&amp;quality=85&amp;origin=CUSTOM_FEED_EXPORT</g:image_link>
+      <g:brand>VelocityX</g:brand>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:price>549.9900 GBP</g:price>
+      <g:item_group_id>204589</g:item_group_id>
+      <g:color>Midnight Blue</g:color>
+      <g:mpn>HX.5599.2026</g:mpn>
+      <g:quantity>15</g:quantity>
+    </item>
+  </channel>
+</rss>
