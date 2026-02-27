@@ -8,7 +8,8 @@
     "Description": "High-performance mountain bike with hydraulic disc brakes and lightweight alloy frame",
     "Image URLs": "https://www.cycleshopworld.com/images/mtb_pro29_black.jpg?height=800&width=800&quality=80",
     "Category": "Mountain Bikes",
-    "Product Color": "black"
+    "Product Color": "black",
+    "Price": "40 GBP"
   },
   {
     "id": "88991235",
@@ -19,6 +20,7 @@
     "Description": "Durable adjustable bike stand suitable for home maintenance and storage",
     "Image URLs": "https://www.cycleshopworld.com/images/bike_stand_pro.jpg?height=800&width=800&quality=80",
     "Category": "Bike Accessories",
-    "Product Color": "silver"
+    "Product Color": "silver",
+    "Price": "45 GBP"
   }
 ]
