@@ -1,0 +1,26 @@
+[
+  {
+    "id": "99004561",
+    "Product ID": "77001234",
+    "Product Name": "TrailBlazer X9 Carbon Mountain Bike 29”",
+    "Product Brand": "VelocityX",
+    "Product URL": "https://www.cycleshopworld.com/__99881",
+    "Description": "High-performance mountain bike with hydraulic disc brakes and lightweight alloy frame",
+    "Image URLs": "https://www.cycleshopworld.com/images/mtb_pro29_black.jpg?height=800&width=800&quality=80",
+    "Category": "Mountain Bikes",
+    "Product Color": "black/white",
+    "Price": "40 GBP"
+  },
+  {
+    "id": "99004562",
+    "Product ID": "77001235",
+    "Product Name": "FixMaster Pro Adjustable Repair Stand",
+    "Product Brand": "GearMaster",
+    "Product URL": "https://www.cycleshopworld.com/__99882",
+    "Description": "Durable adjustable bike stand suitable for home maintenance and storage",
+    "Image URLs": "https://www.cycleshopworld.com/images/bike_stand_pro.jpg?height=800&width=800&quality=80",
+    "Category": "Bike Accessories",
+    "Product Color": "silver dust",
+    "Price": "45 GBP"
+  }
+]
