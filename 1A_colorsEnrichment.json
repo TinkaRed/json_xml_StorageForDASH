@@ -32,7 +32,7 @@
     "Description": "Heavy-duty adjustable repair stand with 360-degree rotating clamp for precise bike maintenance",
     "Image URLs": "https://www.cycleshopworld.com/images/bike_stand_elite.jpg?height=800&width=800&quality=80",
     "Category": "Bike Accessories",
-    "Product Color": "spicy red",
+    "Product Color": "Spicy Red",
     "Price": "59 GBP"
   },
   {
@@ -46,5 +46,17 @@
     "Category": "Bike Accessories",
     "Product Color": "#%^",
     "Price": "49 GBP"
-  }
+  },
+  {
+  "id": "99004565",
+  "Product ID": "77001238",
+  "Product Name": "ProLift Elite Bike Repair Stand",
+  "Product Brand": "GearMaster",
+  "Product URL": "https://www.cycleshopworld.com/__99885",
+  "Description": "Heavy-duty adjustable repair stand with 360-degree rotating clamp for precise bike maintenance",
+  "Image URLs": "https://www.cycleshopworld.com/images/bike_stand_elite.jpg?height=800&width=800&quality=80",
+  "Category": "Bike Accessories",
+  "Product Color": "frozen leaf",
+  "Price": "59 GBP"
+}
 ]
