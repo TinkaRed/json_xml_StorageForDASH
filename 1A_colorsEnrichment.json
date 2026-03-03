@@ -26,7 +26,7 @@
   {
     "id": "99004563",
     "Product ID": "77001236",
-    "Product Name": "ProLift Elite Bike Repair Stand",
+    "Product Name": "ProLift Elite 360° Workshop Repair Stand",
     "Product Brand": "GearMaster",
     "Product URL": "https://www.cycleshopworld.com/__99883",
     "Description": "Heavy-duty adjustable repair stand with 360-degree rotating clamp for precise bike maintenance",
@@ -38,7 +38,7 @@
   {
     "id": "99004564",
     "Product ID": "77001237",
-    "Product Name": "CyclePro Compact Maintenance Stand",
+    "Product Name": "CyclePro Compact Folding Service Stand",
     "Product Brand": "GearMaster",
     "Product URL": "https://www.cycleshopworld.com/__99884",
     "Description": "Compact and foldable bike maintenance stand ideal for home workshops and small spaces",
@@ -48,15 +48,15 @@
     "Price": "49 GBP"
   },
   {
-  "id": "99004565",
-  "Product ID": "77001238",
-  "Product Name": "ProLift Elite Bike Repair Stand",
-  "Product Brand": "GearMaster",
-  "Product URL": "https://www.cycleshopworld.com/__99885",
-  "Description": "Heavy-duty adjustable repair stand with 360-degree rotating clamp for precise bike maintenance",
-  "Image URLs": "https://www.cycleshopworld.com/images/bike_stand_elite.jpg?height=800&width=800&quality=80",
-  "Category": "Bike Accessories",
-  "Product Color": "frozen leaf",
-  "Price": "59 GBP"
-}
+    "id": "99004565",
+    "Product ID": "77001238",
+    "Product Name": "ProLift Elite Arctic Edition Repair Stand",
+    "Product Brand": "GearMaster",
+    "Product URL": "https://www.cycleshopworld.com/__99885",
+    "Description": "Heavy-duty adjustable repair stand with 360-degree rotating clamp for precise bike maintenance",
+    "Image URLs": "https://www.cycleshopworld.com/images/bike_stand_elite.jpg?height=800&width=800&quality=80",
+    "Category": "Bike Accessories",
+    "Product Color": "frozen leaf",
+    "Price": "59 GBP"
+  }
 ]
