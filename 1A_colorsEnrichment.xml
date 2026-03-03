@@ -48,7 +48,7 @@
       <g:availability>out_of_stock</g:availability>
       <g:price>749.9900 GBP</g:price>
       <g:item_group_id>309876</g:item_group_id>
-      <g:color>Crimson Red</g:color>
+      <g:color>brown leaf</g:color>
       <g:mpn>TR.8844.2026</g:mpn>
       <g:quantity>0</g:quantity>
     </item>
@@ -64,7 +64,7 @@
       <g:availability>preorder</g:availability>
       <g:price>699.9900 GBP</g:price>
       <g:item_group_id>309877</g:item_group_id>
-      <g:color>Forest Green</g:color>
+      <g:color>%()</g:color>
       <g:mpn>TR.8845.2026</g:mpn>
       <g:quantity>5</g:quantity>
     </item>
