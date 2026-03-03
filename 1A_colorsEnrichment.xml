@@ -5,6 +5,7 @@
     <link>https://megastorehub.com/</link>
     <description>googleCatalog automatedUpdateFeed</description>
 
+    
     <item>
       <g:id>91-452</g:id>
       <title>SkyRide Pro Touring Bicycle</title>
@@ -52,7 +53,7 @@
       <g:mpn>TR.8844.2026</g:mpn>
       <g:quantity>0</g:quantity>
     </item>
-
+    
     <item>
       <g:id>91-455</g:id>
       <title>SkyRide Pro Touring Bicycle Performance</title>
@@ -69,5 +70,21 @@
       <g:quantity>5</g:quantity>
     </item>
 
+<item>
+  <g:id>91-455</g:id>
+  <title>SkyRide Pro Touring Bicycle Performance</title>
+  <g:description>Performance touring bike with reinforced frame and advanced braking system</g:description>
+  <link>https://megastorehub.com/2048</link>
+  <g:image_link>https://www.cycleshopworld.com/images/products/hybrid_bike_urban_green.png?height=800&amp;width=800&amp;quality=85&amp;origin=CUSTOM_FEED_EXPORT</g:image_link>
+  <g:brand>VelocityX</g:brand>
+  <g:condition>new</g:condition>
+  <g:availability>preorder</g:availability>
+  <g:price>699.9900 GBP</g:price>
+  <g:item_group_id>309877</g:item_group_id>
+  <g:color>graphite</g:color>
+  <g:mpn>TR.8845.2026</g:mpn>
+  <g:quantity>5</g:quantity>
+</item>    
+    
   </channel>
 </rss>
