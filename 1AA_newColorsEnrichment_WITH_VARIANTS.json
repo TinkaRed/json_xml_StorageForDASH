@@ -1,0 +1,129 @@
+{
+  "title": "1AA_newColorsEnrichment_WITH_VARIANTS",
+  "link": "https://www.testme2.co.uk/",
+  "description": "1AA_newColorsEnrichment_WITH_VARIANTS",
+  "products": [
+    {
+      "id": "PRD-78451-XT",
+      "title": "ApexTrail Performance Bike Chain X12",
+      "description": "Chain for mountain bike - description",
+      "image_url": "https://checkout.ribblecycles.co.uk/media/catalog/product/a/l/allroad_al_tiagra_1.png",
+      "variants": [
+        {
+          "id": "VAR-99102-AA",
+          "brand": "Chain brand",
+          "rrp": 1429,
+          "price": 1429,
+          "in_stock": true,
+          "option1": "red-blue / Extra Small Tiagra Hydro Disc",
+          "option2": "DT Swiss G1800 P7 Sport 32mm HG",
+          "option3": "Alloy Bar & RS2 Stem / MODEL X Superflow Saddle"
+        },
+        {
+          "id": "VAR-99103-BB",
+          "brand": "Chain brand",
+          "rrp": 2229,
+          "price": 2229,
+          "in_stock": true,
+          "option1": "red/blue / Extra Small Tiagra Hydro Disc",
+          "option2": "Vision SC45 PZ Road 32mm Black HG",
+          "option3": "Alloy Bar & RS2 Stem / MODEL X Superflow Saddle"
+        },
+        {
+          "id": "VAR-99104-CC",
+          "brand": "Chain brand",
+          "rrp": 2229,
+          "price": 2229,
+          "in_stock": true,
+          "option1": "red / blue / Extra Small Tiagra Hydro Disc",
+          "option2": "Mavic Cosmic S P Zero Road 32mm HG",
+          "option3": "Alloy Bar & RS2 Stem / MODEL X Superflow Saddle"
+        }
+      ]
+    },
+    {
+      "id": "PRD-88214-QM",
+      "title": "IronLink Pro Endurance Chain 11S",
+      "description": "High-durability chain engineered for long-distance road cycling performance",
+      "image_url": "https://checkout.ribblecycles.co.uk/media/catalog/product/a/l/allroad_al_tiagra_1.png",
+      "variants": [
+        {
+          "id": "VAR-77210-DD",
+          "brand": "IronLink",
+          "rrp": 1599,
+          "price": 1499,
+          "in_stock": true,
+          "option1": "&&&&& / 11 Speed",
+          "option2": "Standard Pin",
+          "option3": "Retail Box"
+        },
+        {
+          "id": "VAR-77211-EE",
+          "brand": "IronLink",
+          "rrp": 1799,
+          "price": 1699,
+          "in_stock": false,
+          "option1": "&&&&& / 11 Speed",
+          "option2": "Quick Link",
+          "option3": "Retail Box"
+        }
+      ]
+    },
+    {
+      "id": "PRD-99302-LK",
+      "title": "TrailCore Steel MTB Chain 10S",
+      "description": "Reinforced steel chain designed for aggressive mountain terrain riding",
+      "image_url": "https://checkout.ribblecycles.co.uk/media/catalog/product/a/l/allroad_al_tiagra_1.png",
+      "variants": [
+        {
+          "id": "VAR-66301-FF",
+          "brand": "TrailCore",
+          "rrp": 1299,
+          "price": 1199,
+          "in_stock": true,
+          "option1": "Midnight Pine / 10 Speed",
+          "option2": "Heavy Duty Pin",
+          "option3": "Eco Packaging"
+        },
+        {
+          "id": "VAR-66302-GG",
+          "brand": "TrailCore",
+          "rrp": 1399,
+          "price": 1299,
+          "in_stock": true,
+          "option1": " / 10 Speed",
+          "option2": "Quick Link",
+          "option3": "Eco Packaging"
+        }
+      ]
+    },
+    {
+      "id": "PRD-55129-VB",
+      "title": "UrbanShift Compact Drive Chain 9S",
+      "description": "Lightweight and smooth-shifting chain optimized for city commuting bikes",
+      "image_url": "https://checkout.ribblecycles.co.uk/media/catalog/product/a/l/allroad_al_tiagra_1.png",
+      "variants": [
+        {
+          "id": "VAR-55091-HH",
+          "brand": "UrbanShift",
+          "rrp": 999,
+          "price": 899,
+          "in_stock": true,
+          "option1": "silver dust / 9 Speed",
+          "option2": "Standard Link",
+          "option3": "Minimal Pack"
+        },
+        {
+          "id": "VAR-55092-II",
+          "brand": "UrbanShift",
+          "rrp": 1099,
+          "price": 999,
+          "in_stock": true,
+          "option1": "red / 9 Speed",
+          "option2": "Quick Link",
+          "option3": "Minimal Pack"
+        }
+      ]
+    }
+  ]
+}
