@@ -125,5 +125,65 @@
       <g:quantity>5</g:quantity>
     </item>
 
+    <item>
+      <g:id>LMN-4472-QP</g:id>
+      <title>IronVale Nomad XR Touring 720</title>
+      <g:description>
+        Long-distance touring bicycle built with reinforced aluminum frame and advanced hydraulic braking system for maximum stability
+      </g:description>
+      <link>https://megastorehub.com/3101</link>
+      <g:image_link>
+        https://www.cycleshopworld.com/images/products/hybrid_bike_urban_green.png?height=800&amp;width=800&amp;quality=85&amp;origin=CUSTOM_FEED_EXPORT
+      </g:image_link>
+      <g:brand>VelocityX</g:brand>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:price>689.9900 GBP</g:price>
+      <g:item_group_id>501227</g:item_group_id>
+      <g:color>Midnight Pine</g:color>
+      <g:mpn>TV.2045.2026</g:mpn>
+      <g:quantity>8</g:quantity>
+    </item>
+
+    <item>
+      <g:id>RZT-8831-XL</g:id>
+      <title>StonePeak Voyager Elite 730</title>
+      <g:description>
+        Adventure-ready trekking bike featuring carbon-reinforced frame geometry and responsive dual-disc braking technology
+      </g:description>
+      <link>https://megastorehub.com/3102</link>
+      <g:image_link>
+        https://www.cycleshopworld.com/images/products/hybrid_bike_urban_green.png?height=800&amp;width=800&amp;quality=85&amp;origin=CUSTOM_FEED_EXPORT
+      </g:image_link>
+      <g:brand>VelocityX</g:brand>
+      <g:condition>new</g:condition>
+      <g:availability>preorder</g:availability>
+      <g:price>742.5000 GBP</g:price>
+      <g:item_group_id>501228</g:item_group_id>
+      <g:color>Desert / Ember</g:color>
+      <g:mpn>SP.3308.2026</g:mpn>
+      <g:quantity>3</g:quantity>
+    </item>
+
+    <item>
+      <g:id>YKU-6620-BV</g:id>
+      <title>NorthTrail Horizon GT Expedition</title>
+      <g:description>
+        High-performance endurance bicycle designed for cross-country exploration with vibration-dampening frame design
+      </g:description>
+      <link>https://megastorehub.com/3103</link>
+      <g:image_link>
+        https://www.cycleshopworld.com/images/products/hybrid_bike_urban_green.png?height=800&amp;width=800&amp;quality=85&amp;origin=CUSTOM_FEED_EXPORT
+      </g:image_link>
+      <g:brand>VelocityX</g:brand>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:price>705.0000 GBP</g:price>
+      <g:item_group_id>501229</g:item_group_id>
+      <g:color>Glacier/Mint</g:color>
+      <g:mpn>NT.7810.2026</g:mpn>
+      <g:quantity>6</g:quantity>
+    </item>
+
   </channel>
 </rss>
