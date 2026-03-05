@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
+  <channel>
+    <title>urbanTech feed VelocityShop googleCatalog with variations</title>
+    <link>https://megastorehub.com/</link>
+    <description>googleCatalog automatedUpdateFeed</description>
+
+    <item>
+      <g:id>AQX-9107-ZM</g:id>
+      <title>Ribble Ultra-Aero SL R - Hero</title>
+      <g:description>
+        Premium touring bicycle engineered for endurance rides with reinforced frame and precision braking system
+      </g:description>
+      <link>https://megastorehub.com/2054</link>
+      <g:image_link>
+        https://www.cycleshopworld.com/images/products/hybrid_bike_urban_green.png?height=800&amp;width=800&amp;quality=85&amp;origin=CUSTOM_FEED_EXPORT
+      </g:image_link>
+      <g:brand>VelocityX</g:brand>
+      <g:condition>new</g:condition>
+      <g:availability>preorder</g:availability>
+      <g:price>719.9900 GBP</g:price>
+      <g:item_group_id>309884</g:item_group_id>
+      <g:color>red</g:color>
+      <g:mpn>TR.9921.2026</g:mpn>
+      <g:quantity>5</g:quantity>
+    </item>
+
+  </channel>
+</rss>
