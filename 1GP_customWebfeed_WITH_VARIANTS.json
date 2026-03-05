@@ -1,0 +1,45 @@
+{
+  "title": "1GP_customWebfeed_WITH_VARIANTS",
+  "link": "https://www.testme25656.co.uk/",
+  "description": "1GP_customWebfeed_WITH_VARIANTS",
+  "products": [
+    {
+      "id": "PRD-78451-XT",
+      "title": "Ribble Ultra-Aero SL R - Hero",
+      "description": "Ribble Ultra-Aero SL R - Hero - description",
+      "image_url": "https://checkout.ribblecycles.co.uk/media/catalog/product/a/l/allroad_al_tiagra_1.png",
+      "variants": [
+        {
+          "id": "VAR-99102-AA",
+          "brand": "Chain brand",
+          "rrp": 1429,
+          "price": 1429,
+          "in_stock": true,
+          "option1": "red-blue / Extra Small Tiagra Hydro Disc",
+          "option2": "DT Swiss G1800 P7 Sport 32mm HG",
+          "option3": "Alloy Bar & RS2 Stem / MODEL X Superflow Saddle"
+        },
+        {
+          "id": "VAR-99103-BB",
+          "brand": "Chain brand",
+          "rrp": 2229,
+          "price": 2229,
+          "in_stock": true,
+          "option1": "red/blue / Extra Small Tiagra Hydro Disc",
+          "option2": "Vision SC45 PZ Road 32mm Black HG",
+          "option3": "Alloy Bar & RS2 Stem / MODEL X Superflow Saddle"
+        },
+        {
+          "id": "VAR-99104-CC",
+          "brand": "Chain brand",
+          "rrp": 2229,
+          "price": 2229,
+          "in_stock": true,
+          "option1": "red / blue / Extra Small Tiagra Hydro Disc",
+          "option2": "Mavic Cosmic S P Zero Road 32mm HG",
+          "option3": "Alloy Bar & RS2 Stem / MODEL X Superflow Saddle"
+        }
+      ]
+    }
+  ]
+}
